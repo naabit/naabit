@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hola, soy Natalia
 
-<!--
-**naabit/naabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora en formación enfocada en **Python, desarrollo backend y testing**, con una base en **sociología** que guía mi forma de entender los sistemas y las personas que los usan.
 
-Here are some ideas to get you started:
+Actualmente estoy construyendo proyectos que combinan **tecnología, estructura y pensamiento crítico**, con el objetivo de integrarme a la industria TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías
+
+* Python
+* Django
+* PostgreSQL
+* Git & GitHub
+* Bootstrap
+
+---
+
+## 🧠 En qué estoy trabajando
+
+* 🛍️ Desarrollo de un e-commerce con Django
+  → catálogo, carrito, checkout y autenticación
+* 🧪 Introducción al testing y automatización
+* 🌱 Construcción de mi portafolio profesional
+
+---
+
+## 📌 Proyectos destacados
+
+### 🛍️ Purple Store – E-commerce Django
+
+Aplicación web con flujo completo de compra, persistencia en base de datos y autenticación de usuarios.
+
+🔗 https://github.com/TU-USUARIO/TU-REPO
+
+---
+
+## 📚 Publicaciones
+
+* 🧠 *Meditations on Reciprocity in the Age of AI: From Descartes to Augmented Parasociality*
+  Publicado en el marco del **Berggruen Prize Essay Competition 2025**.
+
+  Este ensayo explora cómo las relaciones humano-IA están reconfigurando conceptos clásicos de reciprocidad, identidad y vínculo social.
+
+  🔗 [https://loc.closertotruth.com/essay/meditations-on-reciprocity-in-the-age-of-ai-from-descartes-to-augmented-parasociality]
+
+---
+
+## 🧩 Sobre mi enfoque
+
+Me interesa construir soluciones que no solo funcionen, sino que también tengan sentido dentro de los sistemas sociales en los que existen.
+
+Veo la tecnología como un espacio donde se cruzan la lógica, la experiencia humana y las estructuras invisibles que organizan nuestra vida cotidiana.
+
+---
+
+## 🎯 Intereses
+
+* Desarrollo backend
+* QA / Testing
+* Ciencia de datos aplicada a lo social
+* Ética en inteligencia artificial
+
+---
+
+✨ Actualmente en transición hacia la industria tecnológica.
+
