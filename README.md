@@ -25,13 +25,13 @@ Actualmente estoy construyendo proyectos que combinan **tecnología, estructura 
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyectos
 
 ### 🛍️ Purple Store – E-commerce Django
 
 Aplicación web con flujo completo de compra, persistencia en base de datos y autenticación de usuarios.
 
-🔗 https://github.com/TU-USUARIO/TU-REPO
+🔗 https://github.com/naabit/ecommerce_portafolio
 
 ---
 
