@@ -1,4 +1,4 @@
-# 👋 Hola, soy Natalia
+# Hola, soy Natalia
 
 Soy desarrolladora en formación enfocada en **Python, desarrollo backend y testing**, con una base en **sociología** que guía mi forma de entender los sistemas y las personas que los usan.
 
@@ -6,7 +6,7 @@ Actualmente estoy construyendo proyectos que combinan **tecnología, estructura 
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 * Python
 * Django
@@ -16,18 +16,18 @@ Actualmente estoy construyendo proyectos que combinan **tecnología, estructura 
 
 ---
 
-## 🧠 En qué estoy trabajando
+## En qué estoy trabajando
 
-* 🛍️ Desarrollo de un e-commerce con Django
+*  Desarrollo de un e-commerce con Django
   → catálogo, carrito, checkout y autenticación
-* 🧪 Introducción al testing y automatización
-* 🌱 Construcción de mi portafolio profesional
+*  Introducción al testing y automatización
+*  Construcción de mi portafolio profesional
 
 ---
 
 ## 📌 Proyectos
 
-### 🛍️ Purple Store – E-commerce Django
+###  Purple Store – E-commerce Django
 
 Aplicación web con flujo completo de compra, persistencia en base de datos y autenticación de usuarios.
 
@@ -35,9 +35,9 @@ Aplicación web con flujo completo de compra, persistencia en base de datos y au
 
 ---
 
-## 📚 Publicaciones
+## Publicaciones
 
-* 🧠 *Meditations on Reciprocity in the Age of AI: From Descartes to Augmented Parasociality*
+ *Meditations on Reciprocity in the Age of AI: From Descartes to Augmented Parasociality*
   Publicado en el marco del **Berggruen Prize Essay Competition 2025**.
 
   Este ensayo explora cómo las relaciones humano-IA están reconfigurando conceptos clásicos de reciprocidad, identidad y vínculo social.
@@ -46,7 +46,7 @@ Aplicación web con flujo completo de compra, persistencia en base de datos y au
 
 ---
 
-## 🧩 Sobre mi enfoque
+## Sobre mi enfoque
 
 Me interesa construir soluciones que no solo funcionen, sino que también tengan sentido dentro de los sistemas sociales en los que existen.
 
@@ -54,7 +54,7 @@ Veo la tecnología como un espacio donde se cruzan la lógica, la experiencia hu
 
 ---
 
-## 🎯 Intereses
+## Intereses
 
 * Desarrollo backend
 * QA / Testing
