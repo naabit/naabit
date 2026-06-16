@@ -44,9 +44,9 @@ Actualmente trabajo y practico con:
 
 Aplicación desarrollada con Django para importar, organizar, filtrar y exportar artículos académicos. Incluye limpieza de datos, filtros dinámicos, ordenamiento y gestión modular de datasets.
 
-####**Tecnologías:** Python, Django, Pandas, Bootstrap, SQLite
-####**Repositorio:** https://github.com/naabit/biblos
-####**Demo:** https://biblos-adql.onrender.com/
+#### **Tecnologías:** Python, Django, Pandas, Bootstrap, SQLite
+#### **Repositorio:** https://github.com/naabit/biblos
+#### **Demo:** https://biblos-adql.onrender.com/
 
 ---
 
@@ -54,10 +54,10 @@ Aplicación desarrollada con Django para importar, organizar, filtrar y exportar
 
 E-commerce desarrollado con Django y PostgreSQL en el contexto del bootcamp Python de Talento Digital. Incluye catálogo, carrito, autenticación, checkout y manejo de permisos.
 
-####**Tecnologías:** Django, PostgreSQL, Bootstrap, Render
-####**Repositorio:** https://github.com/naabit/ecommerce_portafolio
-####**Demo:** https://ecommerce-portafolio.onrender.com/
-####**Testing:** https://github.com/naabit/ecommerce-testing-portfolio
+#### **Tecnologías:** Django, PostgreSQL, Bootstrap, Render
+#### **Repositorio:** https://github.com/naabit/ecommerce_portafolio
+#### **Demo:** https://ecommerce-portafolio.onrender.com/
+#### **Testing:** https://github.com/naabit/ecommerce-testing-portfolio
 
 ---
 
@@ -65,9 +65,9 @@ E-commerce desarrollado con Django y PostgreSQL en el contexto del bootcamp Pyth
 
 Prototipo web para una cafetería local. Explora branding, narrativa visual y estrategias iniciales de SEO para negocios territoriales.
 
-####**Tecnologías:** HTML, CSS, JavaScript, GitHub Pages, SEO técnico
-####**Repositorio:** https://github.com/naabit/treile-cafe-site
-####**Demo:** https://naabit.github.io/treile-cafe-site/index.html
+#### **Tecnologías:** HTML, CSS, JavaScript, GitHub Pages, SEO técnico
+#### **Repositorio:** https://github.com/naabit/treile-cafe-site
+#### **Demo:** https://naabit.github.io/treile-cafe-site/index.html
 
 ---
 
@@ -75,7 +75,7 @@ Prototipo web para una cafetería local. Explora branding, narrativa visual y es
 
 Estoy desarrollando mi portafolio personal como una forma de reunir proyectos, investigación, documentación y CV en un solo espacio.
 
-####**Repositorio:** https://github.com/naabit/portfolio-naabit
+#### **Repositorio:** https://github.com/naabit/portfolio-naabit
 
 ---
 
@@ -87,7 +87,7 @@ Ensayo seleccionado en el marco del **Berggruen Prize Essay Competition 2025**.
 
 El texto explora cómo las relaciones humano-IA están reconfigurando conceptos como reciprocidad, identidad, vínculo social y subjetividad tecnológica desde una perspectiva sociológica y crítica.
 
-####**Leer ensayo:** https://loc.closertotruth.com/essay/meditations-on-reciprocity-in-the-age-of-ai-from-descartes-to-augmented-parasociality
+#### **Leer ensayo:** https://loc.closertotruth.com/essay/meditations-on-reciprocity-in-the-age-of-ai-from-descartes-to-augmented-parasociality
 
 ---
 
