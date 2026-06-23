@@ -50,10 +50,10 @@ Aplicación desarrollada con Django para importar, organizar, filtrar, clasifica
 
 Incluye limpieza y normalización básica de datos, filtros dinámicos, ordenamiento, exportación de resultados y separación de información mediante sesiones de navegador. También cuenta con pruebas automatizadas para flujos críticos y una integración continua configurada con GitHub Actions.
 
-**Tecnologías:** Python, Django, Pandas, Bootstrap, SQLite, GitHub Actions
-**Repositorio:** https://github.com/naabit/biblos
-**Demo:** https://biblos-adql.onrender.com/
-**Testing y CI:** https://github.com/naabit/biblos/actions
+#### **Tecnologías:** Python, Django, Pandas, Bootstrap, SQLite, GitHub Actions
+#### **Repositorio:** https://github.com/naabit/biblos
+#### **Demo:** https://biblos-adql.onrender.com/
+#### **Testing y CI:** https://github.com/naabit/biblos/actions
 
 ---
 
@@ -63,10 +63,10 @@ E-commerce desarrollado con Django y PostgreSQL en el contexto del bootcamp Full
 
 Incluye catálogo de productos, carrito de compras, autenticación, checkout y manejo de permisos. El proyecto cuenta además con un repositorio QA separado, donde documento pruebas manuales, pruebas exploratorias, reportes de bugs y una automatización E2E inicial con Cypress.
 
-**Tecnologías:** Django, PostgreSQL, Bootstrap, Render
-**Repositorio:** https://github.com/naabit/ecommerce_portafolio
-**Demo:** https://ecommerce-portafolio.onrender.com/
-**Repositorio QA:** https://github.com/naabit/ecommerce-testing-portfolio
+#### **Tecnologías:** Django, PostgreSQL, Bootstrap, Render
+#### **Repositorio:** https://github.com/naabit/ecommerce_portafolio
+#### **Demo:** https://ecommerce-portafolio.onrender.com/
+#### **Repositorio QA:** https://github.com/naabit/ecommerce-testing-portfolio
 
 ---
 
@@ -76,9 +76,9 @@ Prototipo web para una cafetería local. Explora branding, narrativa visual y es
 
 Actualmente se presenta como una demo en desarrollo, pensada como experimento de diseño, presencia digital y posicionamiento local.
 
-**Tecnologías:** HTML, CSS, JavaScript, GitHub Pages, SEO técnico
-**Repositorio:** https://github.com/naabit/treile-cafe-site
-**Demo:** https://naabit.github.io/treile-cafe-site/index.html
+#### **Tecnologías:** HTML, CSS, JavaScript, GitHub Pages, SEO técnico
+#### **Repositorio:** https://github.com/naabit/treile-cafe-site
+#### **Demo:** https://naabit.github.io/treile-cafe-site/index.html
 
 ---
 
@@ -86,8 +86,8 @@ Actualmente se presenta como una demo en desarrollo, pensada como experimento de
 
 Estoy desarrollando mi portafolio personal como un espacio para reunir proyectos, documentación, investigación, publicaciones y CV.
 
-**Repositorio:** https://github.com/naabit/portfolio-naabit
-**Enlace:** https://naabit.cl/
+#### **Repositorio:** https://github.com/naabit/portfolio-naabit
+#### **Enlace:** https://naabit.cl/
 
 ---
 
